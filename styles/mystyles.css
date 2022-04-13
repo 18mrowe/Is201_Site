@@ -1,0 +1,73 @@
+/* Matt Rowe, Updated April 7 */
+.bold{
+    font-weight: bold;
+    color: blue;
+  }
+  .italic{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .indent{
+      text-indent: 10%;
+  }
+  .homebg{
+      background-image: url(../images/Cosmos.jpeg); background-repeat: no-repeat;
+  }
+  .li{
+    float:left
+  }
+  
+  .backgroundimg{
+    background-color: white no-repeat;
+  }
+
+  .backgroundpic{
+    background-image:url(../images/ps4.jpeg) ; background-repeat: no-repeat;
+  }
+  
+  li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  body {
+    background-color: white;
+  }
+
+
+.LinkedIn{
+  color: black;
+  text-align: center;
+}
+
+.header{
+position: relative;
+top: 5px;
+left: 5px;
+right: 5px;
+height: 50px;
+background-color: white;
+border-bottom: solid;
+width: 100%;
+}
+.footer{
+bottom: 5px;
+height: 50px;
+left: 5px;
+right: 5px;
+font-size: 15px;
+color: grey;
+text-align: center;
+Width:100%;
+}
+body{
+  position: relative;
+}
+
+.common{
+  color: White;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
